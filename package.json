@@ -1,8 +1,8 @@
 {
-  "name": "seasonal-shift-analyzer",
+  "name": "temptrack",
   "version": "1.0.0",
   "type": "module",
-  "description": "Analytics dashboard for predicting optimal seasonal inventory transitions",
+  "description": "Weather analytics for retail inventory - predict optimal seasonal transitions with temperature data",
   "main": "index.html",
   "scripts": {
     "dev": "vite",
